@@ -38,3 +38,6 @@ Dataset used from Kaggle or local file: `fake_news.csv` (10k records of real and
 
 Feel free to fork, star or use this project with credits.
 code with satyam chaurasiya
+## 🔗 Open in Google Colab
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pfuj9k-ucKa6q597iMC00Te-pONNIJMK)
